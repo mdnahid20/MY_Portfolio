@@ -1,0 +1,70 @@
+.Apps {
+  height: 200vh;
+  background-image: url("/public/img/background3.jpg");
+  background-size: cover;
+ }
+
+ .topbar{
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 20px;
+}
+.Navs{
+list-style-type: none;
+margin: 0;
+padding: 30px;
+display: inline;
+}
+
+li{
+display: inline;
+}
+
+.navlink{
+  text-decoration: none;
+  color: black;
+  margin-left: 30px;
+  font-weight: 400;
+}
+.active {
+  color: gray;
+}
+.versity{
+  position: absolute;
+  top: 150px;
+  left:300px
+}
+.skills{
+  position: absolute;
+  top: 150px;
+  left:350px;
+}
+.codeforces{
+  position: absolute;
+  top: 150px;
+  left:250px;
+}
+.codechef{
+  position: absolute;
+  top: 150px;
+  left:800px;
+}
+
+.leetcode{
+  position: absolute;
+  top: 700px;
+  left:250px;
+}
+.atcoder{
+  position: absolute;
+  top: 700px;
+  left:800px;
+}
+
+.achievment{
+  position: absolute;
+  top: 150px;
+  left:450px;
+  right:150px;
+}
